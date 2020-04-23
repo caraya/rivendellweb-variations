@@ -1,0 +1,23 @@
+.is-style-lede-paragraph {
+  font-size: 1.5em !important;
+}
+
+.is-style-fancy-quote {
+  border-left: 4px solid red;
+}
+
+.is-style-top-bottom-quote {
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+  border-left: 0;
+}
+
+p {
+  margin: 1em 0;
+}
+
+.is-style-red-quote {
+  border-left: 0;
+  color: red;
+  font-size: 5vmax;
+}
